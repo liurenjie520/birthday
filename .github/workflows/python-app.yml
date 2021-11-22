@@ -31,7 +31,7 @@ jobs:
 
     - name: '开始运行bd.py'
       run: python bd.py
-    - name: commit2
+    - name: commit1
       run: |
         git config --global user.email 1438457833@qq.com
         git config --global user.name marsggbo211
